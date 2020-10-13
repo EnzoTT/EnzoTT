@@ -6,4 +6,4 @@ Atualmente estou estudando **HTML,CSS,JavaScript e Python**. Quero me tornar um 
 
 Como hobby estou aprendendo desenho digital, animação e edição de vídeo utilizando o pacote Adobe
 
-Sou bolsista do grupo PET-CoCE e estou à procura de um estágio! :smiley:
+Sou bolsista do grupo PET-CoCE e estou à procura de novas oportunidades! :smiley:
