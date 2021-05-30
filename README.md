@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Meu nome é **Enzo Trevisan Topanotti**, tenho 20 anos e sou apaixonado por programação e tecnologia. Atualmente estou cursando Engenharia de Computação na UTFPR, nesse curso descobri a minha paixão por resolver problemas usando programação.
+Meu nome é **Enzo Trevisan Topanotti**, tenho 21 anos e sou apaixonado por programação e tecnologia. Atualmente estou cursando Engenharia de Computação na UTFPR, nesse curso descobri a minha paixão por resolver problemas usando programação.
 
-Atualmente estou estudando **HTML,CSS,JavaScript e Python**. Quero me tornar um Desenvolvedor Full Stack
+Atualmente estou estudando **ReactJS, TypeScript e JavaScript**. Quero me tornar um Desenvolvedor Front-End Sênior
 
 Como hobby estou aprendendo desenho digital, animação e edição de vídeo utilizando o pacote Adobe
 
-Sou bolsista do grupo PET-CoCE e estou à procura de novas oportunidades! :smiley:
+Sou estagiário na Alexandria e estou à procura de novas oportunidades! :smiley:
