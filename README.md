@@ -6,4 +6,4 @@ Atualmente estou estudando **ReactJS, TypeScript e JavaScript**. Quero me tornar
 
 Como hobby estou aprendendo desenho digital, animação e edição de vídeo utilizando o pacote Adobe
 
-Sou estagiário na Alexandria e estou à procura de novas oportunidades! :smiley:
+Sou Desnvolvedor na Objective! :smiley:
