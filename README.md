@@ -6,4 +6,4 @@ Atualmente estou estudando **ReactJS, TypeScript e JavaScript**. Quero me tornar
 
 Como hobby estou aprendendo desenho digital, animação e edição de vídeo utilizando o pacote Adobe
 
-Sou Desenvolvedor na Objective! :smiley:
+Sou Desenvolvedor Pleno na Objective! :smiley:
