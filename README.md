@@ -1,7 +1,7 @@
 ![spaceship](https://user-images.githubusercontent.com/69278367/215359881-3ddb5f71-5667-43c8-a0f0-30f5c15f2834.gif)
 
 <p align="right" style="color:green;font-weight:700;font-size:20px"> 
-Art by: <a href="https://www.artstation.com/pixeljeff1995" target="blank">Pixel Jeff</a>
+Art by: <a href="https://www.artstation.com/pixeljeff1995" target="_blank">Pixel Jeff</a>
 </p>
 
 <h1 align="center">
