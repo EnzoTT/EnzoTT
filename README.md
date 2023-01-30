@@ -10,7 +10,7 @@ Art by: <a href="https://www.artstation.com/pixeljeff1995" target="_blank">Pixel
 
 
 <h2 align="center">
- Front-End developer from Brazil 
+💻 Front-End developer from Brazil 💻
 </h2>
 <br/>
 
