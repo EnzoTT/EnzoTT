@@ -34,6 +34,29 @@ Art by: <a href="https://www.artstation.com/pixeljeff1995" target="_blank">Pixel
 
 ### Languages and Tools: 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,linux" />
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+    <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+    <a href="https://pt-br.reactjs.org/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+    <a href="https://angular.io/">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+    <a href="https://nodejs.org/en/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+        <a href="https://www.linux.org/pages/download/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
 </p>
 
