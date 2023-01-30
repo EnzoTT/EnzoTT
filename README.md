@@ -1,16 +1,17 @@
+<h1 align="center">
+Hi👋, I'm Enzo Trevisan Topanotti
+</h1>
+
 ![spaceship](https://user-images.githubusercontent.com/69278367/215359881-3ddb5f71-5667-43c8-a0f0-30f5c15f2834.gif)
 
 <p align="right" style="color:green;font-weight:700;font-size:20px"> 
 Art by: <a href="https://www.artstation.com/pixeljeff1995" target="_blank">Pixel Jeff</a>
 </p>
 
-<h1 align="center">
-Hi👋, I'm Enzo Trevisan Topanotti
-</h1>
 
-<h3 align="center">
- A passionate frontend developer from Brazil 
-</h3>
+<h2 align="center">
+ Front-End developer from Brazil 
+</h2>
 <br/>
 
 <img align="right" width=290 src="https://user-images.githubusercontent.com/69278367/215366798-f32f1c6c-e2db-4121-9722-23ffe6c8119f.gif" />
