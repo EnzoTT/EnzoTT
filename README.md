@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi👋! I'm Enzo Trevisan Topanotti
+Hi👋, I'm Enzo Trevisan Topanotti
 </h1>
 
 <h3 align="center">
@@ -9,9 +9,10 @@ Hi👋! I'm Enzo Trevisan Topanotti
 
 ![spaceship](https://user-images.githubusercontent.com/69278367/215359881-3ddb5f71-5667-43c8-a0f0-30f5c15f2834.gif)
 
-* Front-End Developer
-* Working on Objective Solutions
-* Student of Information Systems at UTFPR
+* Student of Information Systems at **UTFPR**
+* I'm currently working in  **Objective Solutions**
+* I'm currently learning **Javascript Advanced Topics**
+
 
 ### Contact me at: 
 <p align="left">
