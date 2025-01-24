@@ -17,9 +17,9 @@ Art by: <a href="https://www.artstation.com/pixeljeff1995" target="_blank">Pixel
 
 <img align="right" width=290 src="https://user-images.githubusercontent.com/69278367/215366798-f32f1c6c-e2db-4121-9722-23ffe6c8119f.gif" />
 
-* Student of Information Systems at **UTFPR**
+* Information Systems at **UTFPR**
 * I'm currently working in  **Objective Solutions**
-* I'm currently learning **Javascript Advanced Topics**
+* I'm currently learning **Typescript Advanced Topics**
 
 
 ### Contact me at: 
